@@ -1,11 +1,12 @@
 # Drug-Recommending-System
+Ref: https://nbviewer.org/github/elfhub97/Drug-Recommending-System/blob/main/DRUG%20Prescribtion.ipynb
 ## Objective
 To design a Drug Recommending system based on patient condition.
 
 ## Data
 Licence: CC0: Public Domain
 
-## The feature sets are:
+## The prediction sets are:
 
 Drug type
 
